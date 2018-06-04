@@ -196,6 +196,8 @@ Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parc
 
 Le challenge consiste à faire un site avec un template en maximum 6 heures.
 
+- Challenge:
+
 	- Lien du [repo](https://github.com/ludovichaute/filrouge-0-guerrilla)
 	- Lien de la [page](https://ludovichaute.github.io/filrouge-0-guerrilla)
 	
