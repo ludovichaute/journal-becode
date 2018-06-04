@@ -140,8 +140,8 @@ Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parc
 
 Le challenge consiste à faire une annimation css en maximum 6 heures.
 
-	- Lien du [repo](https://github.com/ludovichaute/bootstrap-training)
-	- Lien de la [page](https://ludovichaute.github.io/end-of-prairie-technical-drill/)
+- Lien du [repo](https://github.com/ludovichaute/bootstrap-training)
+- Lien de la [page](https://ludovichaute.github.io/end-of-prairie-technical-drill/)
 
 - Méthode d'apprentissage:
 
