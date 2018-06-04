@@ -61,7 +61,7 @@ Même exercice que le précedent mais en serieux.
 	- Seul
 
 - Connaissance aquis:
-	
+
 	- Gèrer le Git
 	- A utiliser les repos GitHub
 	- Crée des fichier markdown
@@ -80,27 +80,27 @@ Lien de l'[excercice](https://github.com/ludovichaute/exercice-markdown)
 Exercice sur Html, Css, Responsive
 
 
-	1. Markdown to html
-		- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
-		- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
-	2. Markdown to html and css
-		- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
-		- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
-	3. Html basic
-		- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
-		- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
-	4. Page Error 404
-		- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
-		- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
-	5. CV
-		- Lien du [repo](https://github.com/ludovichaute/Mon-CV)
-		- En cours
-	6. Vcard en Html
-		- En cours
-	7. Star Wars
-		- En cours
-	8. Tim Berner Lee
-		- En cours
+1. Markdown to html
+	- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
+	- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
+2. Markdown to html and css
+	- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
+	- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
+3. Html basic
+	- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
+	- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
+4. Page Error 404
+	- Lien du [repo](https://github.com/ludovichaute/Learning-Environment)
+	- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/1%20markdown%20to%20html/index.html)
+5. CV
+	- Lien du [repo](https://github.com/ludovichaute/Mon-CV)
+	- En cours
+6. Vcard en Html
+	- En cours
+7. Star Wars
+	- En cours
+8. Tim Berner Lee
+	- En cours
 
 Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parcours/01-La-prairie/html-css)
 
@@ -108,15 +108,15 @@ Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parc
 
 ### Responsive 
 
-	Exercice 1:
+- Exercice 1:
 
-		- Lien du [repo](https://github.com/ludovichaute/Learning-Environment/tree/master/Responsive/ex1)
-		- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/Responsive/ex1/index.html)
+	- Lien du [repo](https://github.com/ludovichaute/Learning-Environment/tree/master/Responsive/ex1)
+	- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/Responsive/ex1/index.html)
 
-	Challenge: (transformer un site pour le rendre responsive)
+- Challenge: (transformer un site pour le rendre responsive)
 
-		- Lien du [repo](https://github.com/ludovichaute/Learning-Environment/tree/master/Responsive/Challenge)
-		- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/Responsive/Challenge/index.html)
+	- Lien du [repo](https://github.com/ludovichaute/Learning-Environment/tree/master/Responsive/Challenge)
+	- Lien de la [page](https://ludovichaute.github.io/Learning-Environment/Responsive/Challenge/index.html)
 
 - Méthode d'apprentissage:
 
@@ -164,17 +164,17 @@ L'exercice consiste à utiliser un framework CSS.
 
 Bootstrap Training:
 
-	- Exercice 1 à 4:
-		- Lien du [repo](https://github.com/ludovichaute/bootstrap-training)
-		- Lien de la [page](https://ludovichaute.github.io/bootstrap-training/exercice-1-4/index.html)
+- Exercice 1 à 4:
+	- Lien du [repo](https://github.com/ludovichaute/bootstrap-training)
+	- Lien de la [page](https://ludovichaute.github.io/bootstrap-training/exercice-1-4/index.html)
 
-	- Exercice 1 à 4:
-		- Lien du [repo](https://github.com/ludovichaute/bootstrap-training/tree/master/exercice-5)
-		- Lien de la [page](https://ludovichaute.github.io/bootstrap-training/exercice-5/index.html)
-	
-	- projet:
+- Exercice 1 à 4:
+	- Lien du [repo](https://github.com/ludovichaute/bootstrap-training/tree/master/exercice-5)
+	- Lien de la [page](https://ludovichaute.github.io/bootstrap-training/exercice-5/index.html)
 
-		- En cours
+- projet:
+	- En cours
+
 - Méthode d'apprentissage:
 
 	- en groupe 
