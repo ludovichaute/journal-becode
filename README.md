@@ -212,3 +212,25 @@ Le challenge consiste à faire un site avec un template en maximum 6 heures.
 
 Lien des [instructions](https://github.com/ludovichaute/filrouge-0-guerrilla)
 
+## 4 juin 2018
+
+### Exercice Javascript:
+
+faire les exercice pour apprendre le Javascript
+
+- Exercice:
+
+	- En cours
+	- Lien du [repo](https://github.com/ludovichaute/javascript-training)
+	
+- Méthode d'apprentissage:
+
+	- Seul 
+	- En groupe
+
+- Connaissance aquis:
+	
+	- En cours
+
+Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parcours/05-JavaScript)
+
