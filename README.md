@@ -216,7 +216,7 @@ Lien des [instructions](https://github.com/ludovichaute/filrouge-0-guerrilla)
 
 ### Exercice Javascript:
 
-faire les exercice pour apprendre le Javascript
+faire les exercice pour apprendre le Javascript.
 
 - Exercice:
 
@@ -233,4 +233,30 @@ faire les exercice pour apprendre le Javascript
 	- En cours
 
 Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parcours/05-JavaScript)
+
+## 7 juin 2018
+
+### Challenge - Guerilla Style
+
+Travail de groupe avec la promo de Charleroi.
+
+le but du challenge est de réaliser un OnePage responsive (intro à pwa).
+
+- Exercice:
+
+	- Lien du [repo](https://github.com/ludovichaute/becode-AHOD)
+	- Lien de la [page](https://ludovichaute.github.io/becode-AHOD/)
+	
+- Méthode d'apprentissage:
+
+	- En groupe
+
+- Connaissance aquis:
+	
+	- s'adapter rapidement pour effectuer un travail de groupe avec des personne que je ne connais pas.
+	- s'organiser 
+	- lire le code des autres. :-)
+	
+
+Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Projects/challenge-six-hours-team)
 
