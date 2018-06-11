@@ -260,3 +260,26 @@ le but du challenge est de réaliser un OnePage responsive (intro à pwa).
 
 Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Projects/challenge-six-hours-team)
 
+## 8 juin 2018
+
+### Exercice Javascript
+
+Travail sur les exercices de pour apprendre a codé en javascript
+
+- Exercice:
+
+	- Lien du [repo](https://github.com/ludovichaute/javascript-training)
+	
+- Méthode d'apprentissage:
+
+	- En groupe
+	- Seul
+
+- Connaissance aquis:
+	
+	- En cours d'apprentissage
+	- lire le code des autres. :-)
+	
+
+Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parcours/05-JavaScript)
+
