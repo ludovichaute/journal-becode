@@ -186,7 +186,6 @@ Bootstrap Training:
 	
 	- Apprendre à utiliser un framework
 	- Comprendre l'utilité d'un framework
-	- 
 
 Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Parcours/03-Bootstrap)
 
@@ -255,12 +254,12 @@ le but du challenge est de réaliser un OnePage responsive (intro à pwa).
 	
 	- s'adapter rapidement pour effectuer un travail de groupe avec des personne que je ne connais pas.
 	- s'organiser 
-	- lire le code des autres. :-)
+	- lire le code des autres :-)
 	
 
 Lien des [instructions](https://github.com/becodeorg/lovelace-2/tree/master/Projects/challenge-six-hours-team)
 
-## 8 juin 2018
+## Du 8 juin 2018 au ... en cours
 
 ### Exercice Javascript
 
